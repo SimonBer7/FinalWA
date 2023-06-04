@@ -221,7 +221,7 @@
 
     <div id="footer">
         <footer class="py-3">
-            <p class="text-center text-body-secondary"><a href="https://github.com/SimonBer7/RealWebsite">© Šimon Bernard</a></p>
+            <p class="text-center text-body-secondary"><a href="https://github.com/SimonBer7/FinalWA">© Šimon Bernard</a></p>
         </footer>
     </div>
 
